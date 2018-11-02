@@ -57,3 +57,4 @@ docker build -t datagovsg/python-spark:3.6-2.1-unittest -f python3/spark2.1/unit
 
 docker run --rm -it datagovsg/python-spark:3.6-2.1-unittest
 
+# spark-docker
